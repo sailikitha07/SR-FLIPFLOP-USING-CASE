@@ -1,5 +1,3 @@
-![Screenshot 2024-11-26 110337](https://github.com/user-attachments/assets/33191abb-bee9-4aea-abc9-3eaedf7fd123)# SR-FLIPFLOP-USING-CASE
-
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -77,4 +75,5 @@ endmodule
 ![Screenshot 2024-11-26 113913](https://github.com/user-attachments/assets/ba7d0635-1610-4700-987f-ab5daffc47ce)
 
 **RESULTS**
+
 Thus to implement SR flipflop using verilog and validating their functionality using their functional tables are done successfully.
